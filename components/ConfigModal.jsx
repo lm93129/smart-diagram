@@ -148,8 +148,8 @@ export default function ConfigModal({ isOpen, onClose, onSave, initialConfig, sh
               onChange={(e) => setConfig({ ...config, type: e.target.value, model: '' })}
               className="w-full px-3 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-gray-900"
             >
-              <option value="openai">OpenAI</option>
-              <option value="anthropic">Anthropic</option>
+              <option value="openai">OpenAI兼容（如DeepSeek）</option>
+              <option value="anthropic">Anthropic兼容</option>
             </select>
           </div>
 
