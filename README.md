@@ -3,10 +3,10 @@
 > **用自然语言，以最简单的方式绘制任何专业美观的图表**
 
 ## 🌐 在线网站
-进入在线网站直接使用：https://smart-draw.aizhi.site/
+进入在线网站直接使用：https://ai-draw-nexus.aizhi.site/
 
 ## 📖 文档
-查看详细使用文档：https://smart-draw-doc.aizhi.site/
+查看详细使用文档：[https://smart-draw-doc.aizhi.site/](https://t1728t6ifnr.feishu.cn/wiki/G7qOw7AH8iOGfHkeKBZcCYown9f?from=from_copylink)
 
 ## English Version
 Read the English version: [README_EN.md](README_EN.md)
